@@ -4,6 +4,7 @@ go 1.15
 
 require (
 	github.com/gobuffalo/flect v0.2.2
+	github.com/magefile/mage v1.11.0
 	github.com/onsi/ginkgo v1.12.0
 	github.com/onsi/gomega v1.9.0
 	github.com/spf13/afero v1.2.2
